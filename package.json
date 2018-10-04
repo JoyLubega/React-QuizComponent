@@ -3,9 +3,12 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "react": "16.2.0",
     "react-dom": "16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "react-toastify": "^4.4.0",
+    "react-toasts": "^2.0.13"
   },
   "scripts": {
     "start": "react-scripts start",
